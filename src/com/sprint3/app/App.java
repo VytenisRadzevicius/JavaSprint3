@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
 
-        myList itemList = new myList();
+        MyList itemList = new MyList();
         Scanner myScanner = new Scanner(System.in);
 
         try { // create file
